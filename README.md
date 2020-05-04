@@ -1,11 +1,16 @@
 # Data Repository
-This is a repository of all the Data Science Projects and assignments done under the course INFO6105, Data Science and Engineering Methods and the course INFO6210 Database Management and Database Design.
+This is a repository of all the Data Science Projects and assignments done under the course INFO6105, Data Science and Engineering Methods, course INFO6210 Database Management and Database Design and the course INFO7370 Designing Data Architecture and Business Intelligence.
 
 ## Requirements
-- Have a running version of Anaconda and Jupyter Notebook (since these projects are done on ipynb files)
-- For the SQL project, have a runing version of MySQL Workbench
+- For the Data Science Folder
+	- Have a running version of Anaconda and Jupyter Notebook (since these projects are done on ipynb files)
+- For the Database Folder
+	- Have a runing version of MySQL Workbench, Microsoft SQL Server
+	- Talend Studio 7.1.1 +
+	- ER Studio
+	- PowerBI and Tableau
 
-The code ia available under MIT License for Free use
+The code is available under MIT License for Free use
 # License
 
 Copyright (c) 2019 Rushabh Nisher
