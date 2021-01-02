@@ -1,0 +1,6 @@
+1) https://www.kaggle.com/abhisheknelgundh/kc-housesales-data-linearregression-randomforest
+2) https://www.kaggle.com/pankajsoni12/kc-house-pricing-eda
+3) https://www.kaggle.com/lkpatel/an-amateur-approach-for-kc-house-price-prediction
+4) https://www.kaggle.com/shuklajt/kc-house-data-analysis-and-predictions
+5) https://www.kaggle.com/nkrishnanl/kc-housing-price-prediction
+6) 
